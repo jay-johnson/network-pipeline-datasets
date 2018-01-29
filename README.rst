@@ -26,5 +26,7 @@ Node.js
 -------
 
 - `React + Redux example`_
+- `Vue example`_
 
 .. _React + Redux example: https://github.com/cornflourblue/react-redux-registration-login-example
+.. _Vue example: https://github.com/petervmeijgaard/vue-2-boilerplate
