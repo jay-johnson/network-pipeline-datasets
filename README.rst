@@ -30,3 +30,10 @@ Node.js
 
 .. _React + Redux example: https://github.com/cornflourblue/react-redux-registration-login-example
 .. _Vue example: https://github.com/petervmeijgaard/vue-2-boilerplate
+
+Java
+----
+
+- `Spring Pet Clinic example in docker`_
+
+.. _Spring Pet Clinic example in docker: https://github.com/anthonydahanne/terracotta-oss-docker
